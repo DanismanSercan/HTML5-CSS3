@@ -1,0 +1,37 @@
+#container{
+    width: 500px;
+    height:auto;
+    background-color: rgb(128, 114, 250);
+    margin: auto;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+header{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(169, 231, 68); 
+    margin-bottom:10px;
+    padding: ;
+}
+nav{
+    width: 400px;
+    height: 200px;
+    background-color:sienna;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom:15px;
+    margin-left: 10px;
+
+}
+main{
+    width: 400px;
+    height: 100px;
+    background-color: rgb(154, 214, 235);
+    margin-bottom:10px ;
+}
+footer{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(231, 68, 169);
+}
